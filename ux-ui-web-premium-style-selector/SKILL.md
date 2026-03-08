@@ -1,5 +1,5 @@
 ---
-name: style-selector
+name: ux-ui-web-premium-style-selector
 description: >
   Deploy 8 radically different visual direction demos for a website or webapp project.
   Creates self-contained Next.js pages under /demo/ with distinct identities (typography,
